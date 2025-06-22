@@ -1,1 +1,1 @@
-![Landing Page](landing.png)
+![](new.png)
